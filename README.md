@@ -6,6 +6,7 @@ An end-to-end Machine Learning and Natural Language Processing (NLP) project tha
 
 ## 🌐 Live Demo
 
+👉 amazon-review-sentiment-analysis-iqn57spkx2roygp6xdhcea.streamlit.app
 
 ---
 
